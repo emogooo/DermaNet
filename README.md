@@ -1,6 +1,6 @@
 # DermaNet
 
-This project includes ISIC-2019 dataset.
+The aim of this study is to develop a deep learning model using CNNs to accurately diagnose skin cancer from the ISIC-2019 dataset.
 
 Check "CNN-Based Dermatological Cancer Diagnosis Using ISIC-2019 Dataset.pdf" for more details. 
 
