@@ -3,3 +3,4 @@ acc_val_acc_history.png
 loss_val_loss_history.png
 confusion_matrix.png
 model_checkpoint.h5
+test.py
